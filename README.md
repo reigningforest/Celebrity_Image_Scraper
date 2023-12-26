@@ -3,7 +3,7 @@ Purpose: Get not only images but also dates
 
 For: Face image and age download for AI
 
-How to use: Either directly modify "input_name" var in "wikimedia webscraper.py" or use a list in "celeb_list_execute"
+How to use: Either directly modify "input_name" var in "wikimedia_webscraper.py" or use a list in "celeb_list_execute"
 
 Note: Yes, it's not that many images. But because wikimedia is generally pretty accurate, these are generally pretty accurate.
 
