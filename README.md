@@ -1,6 +1,9 @@
 # wikimedia_scraper_test
 Purpose: Get not only images but also dates
-For: Face Age AI
+
+For: Face image and age download for AI
+
+Note: Yes, it's not that many images. But because wikimedia is generally pretty accurate, these are generally pretty accurate.
 
 ### Sources:
 
