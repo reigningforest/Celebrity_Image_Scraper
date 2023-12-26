@@ -1,5 +1,5 @@
 # wikimedia_scraper_test
-Purpose: Get not only images but also dates
+Purpose: Get not only images but also dates from wikimedia commons (https://commons.wikimedia.org/)
 
 For: Face image and age download for AI
 
