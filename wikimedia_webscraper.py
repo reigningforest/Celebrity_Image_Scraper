@@ -23,17 +23,11 @@ excel.ExcelFormatter.header_style = None
 
 # ------------------------------------------------------
 # TODO: Rename images to be Name_ImageNumber_date
-# TODO: make this run on loop for a list of patients
-# new_celeb_list = []
-# for i in celeb_list:
-#   new_celeb_list.append(i.replace(" ", "_"))
 
 # ------------------------------------------------------
 
 input_name = "Ken Watanabe"
-# storeDirectory = "C:/Users/jh1083/Downloads/"
-storeDirectory = 'C:/Users/johnh/Downloads/'
-# storeDirectory = '//Smbgpa/airo_mgb$/Data/Fridolin_Haugg/Healthy celebrity images/'
+storeDirectory = 'C:/file/path/'
 checkForCategories = True
 checkForName = True
 categoryNameSkip = ["Signature", "signature", "Art", "art",
