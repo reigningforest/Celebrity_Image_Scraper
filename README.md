@@ -4,7 +4,7 @@ Purpose: Get not only images but also dates images were taken from wikimedia com
 
 For: Face images along with image date downloading. Ex: If you want to look at the aging of celebrities across years with AI.
 
-How to use: Either directly modify "input_name" var in "wikimedia_webscraper.py" or specify a list of names in "celeb_list_execute.py".
+How to use: Either directly modify "input_name" var in "wikimedia_webscraper.py" or specify a list of names in "celeb_list_execute.py". Then, depending on which one you input names into, execute that file.
 
 Note: Yes, you may not that many images. But wikimedia is not like Google or Getty Images.
 
