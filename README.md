@@ -1,16 +1,17 @@
-# wikimedia_scraper_test
-Purpose: Get not only images but also dates from wikimedia commons (https://commons.wikimedia.org/)
+# Celebrity_Wikimedia_Scraper
 
-For: Face image and age download for AI
+Purpose: Get not only images but also dates images were taken from wikimedia commons (https://commons.wikimedia.org/)
 
-How to use: Either directly modify "input_name" var in "wikimedia_webscraper.py" or use a list in "celeb_list_execute"
+For: Face images along with image date downloading. Ex: If you want to look at the aging of celebrities across years with AI.
 
-Note: Yes, it's not that many images. But because wikimedia is generally pretty accurate, these are generally pretty accurate.
+How to use: Either directly modify "input_name" var in "wikimedia_webscraper.py" or specify a list of names in "celeb_list_execute.py".
+
+Note: Yes, you may not that many images. But wikimedia is not like Google or Getty Images.
 
 ### Sources:
+
+The below are the foundation for my code.
 
 Wikimedia Link: https://commons.wikimedia.org/wiki/Commons:Download_tools
 
 Python: https://colab.research.google.com/drive/12jGo_tm2bAD7NRiqxvF-XfKfEWgKIx4X#scrollTo=sDL9EihTwBaC&uniqifier=1
-
-Note: The above code is the foundation. Let me know if I need to change this to reflect the use of their code!
