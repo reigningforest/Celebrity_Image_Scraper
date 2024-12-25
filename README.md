@@ -1,12 +1,13 @@
 # Celebrity_Wikimedia_Scraper
+This was code used to get images as well as image taken dates from wikimedia commons (https://commons.wikimedia.org/)
 
-Purpose: Get not only images but also dates images were taken from wikimedia commons (https://commons.wikimedia.org/)
+### How to use
+Download the files. There are 2 ways to download images and dates:
 
-For: Face images along with image date downloading. Ex: If you want to look at the aging of celebrities across years with AI.
+1. Download from a list of names: Open [celeb_list_execute.py](../celeb_list_execute.py) and specify a name of lists (Format: FirstName LastName).
+2. Download a single name: Open [wikimedia_webscraper.py](../wikimedia_webscraper.py) and modify the `input_name` variable.
 
-How to use: Either directly modify "input_name" var in "wikimedia_webscraper.py" or specify a list of names in "celeb_list_execute.py". Then, depending on which one you input names into, execute that file.
-
-Note: Yes, you may not that many images. But wikimedia is not like Google or Getty Images.
+Note: The more famous a celebrity is, the more images you will get.
 
 ### Sources:
 
