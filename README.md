@@ -13,5 +13,5 @@ Note: The more famous a celebrity is, the more images you will get.
 
 The below are the foundation for my code.
 
-- Wikimedia: [Link](https://commons.wikimedia.org/wiki/Commons:Download_tools)
-- Python: [Link](https://colab.research.google.com/drive/12jGo_tm2bAD7NRiqxvF-XfKfEWgKIx4X#scrollTo=sDL9EihTwBaC&uniqifier=1)
+- Wikimedia Download Tools: [Link](https://commons.wikimedia.org/wiki/Commons:Download_tools)
+- Python Image Downloader: [Link](https://colab.research.google.com/drive/12jGo_tm2bAD7NRiqxvF-XfKfEWgKIx4X#scrollTo=sDL9EihTwBaC&uniqifier=1)
