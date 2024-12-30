@@ -26,7 +26,7 @@ excel.ExcelFormatter.header_style = None
 
 # ------------------------------------------------------
 
-input_name = "Ken Watanabe"
+input_name = "John Doe"
 storeDirectory = 'C:/file/path/'
 checkForCategories = True
 checkForName = True
