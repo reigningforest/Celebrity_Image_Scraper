@@ -1,4 +1,4 @@
-# Celebrity_Wikimedia_Scraper
+# Celebrity_Image_Scraper
 This was code used to get images as well as image taken dates from wikimedia commons (https://commons.wikimedia.org/)
 
 ## How to use
